@@ -1,0 +1,12 @@
+{
+  "name": "baifernapp",
+  "displayName": "baifernapp",
+  "expo": {
+    "name": "baifernapp",
+    "slug": "baifernapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
